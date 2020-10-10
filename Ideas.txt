@@ -7,6 +7,3 @@ simple database (mysql)
 simple login UI
 
 django framework (python) or flask
-
-
-test
